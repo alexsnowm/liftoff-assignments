@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 * ![All Items page wireframe](/P3-Project_Planning/001.jpg)
-* ![Individual item page wireframe](liftoff-assignments/P3-Project_Planning/002.jpg)
+* ![Individual item page wireframe](/P3-Project_Planning/002.jpg)
 * ![Create new item page wireframe](/P3-Project_Planning/003.jpg)
 
 ### Project Tracker
