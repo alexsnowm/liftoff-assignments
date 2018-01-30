@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* ![All Items page wireframe](/001.jpg)
+* ![Individual item page wireframe](/002.jpg)
+* ![Create new item page wireframe](/003.jpg)
 
 ### Project Tracker
 
