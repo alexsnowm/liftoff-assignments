@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/alexsnowm
 
 ### LinkedIn
-linkedin.com/in/alexander-min-0082884b
+https://linkedin.com/in/alexander-min-0082884b
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
