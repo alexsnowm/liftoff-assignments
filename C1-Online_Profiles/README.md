@@ -13,4 +13,5 @@ https://github.com/alexsnowm
 https://linkedin.com/in/alexander-min-0082884b
 
 ### Resume
-![My resume](/C1-Online_Profiles/Alex_Min_Resume_2018.pdf)
+![My resume]
+(/C1-Online_Profiles/Alex_Min_Resume_2018.pdf)
