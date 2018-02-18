@@ -13,4 +13,4 @@ https://github.com/alexsnowm
 https://linkedin.com/in/alexander-min-0082884b
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+!(/C1-Online_Profiles/Alex_Min_Resume_2018.pdf)
